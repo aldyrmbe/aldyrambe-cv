@@ -1,10 +1,12 @@
 # Mhd Rizaldy Andrian Rambe
 
-**Email:** aldyrmbe@gmail.com | **Phone:** +62 823 8622 1187 | **LinkedIn:** linkedin.com/in/aldyrambe
+**Email:** aldyrmbe@gmail.com  
+**Phone:** +62 823 8622 1187  
+**LinkedIn:** linkedin.com/in/aldyrambe
 
 ## Professional Summary
 
-Software Development Engineer with 2.5+ years of experience building scalable backend systems using Java and Spring Boot. Proven track record in optimizing system performance, reducing costs, and implementing resilient microservices architecture at a leading e-commerce platform.
+Software Development Engineer / Backend Engineer with 3+ years of experience building scalable backend systems using Java and Spring Boot. Experienced in microservices, RESTful APIs, event-driven systems, and cloud-native development on GCP within high-traffic e-commerce environments.
 
 ## Education
 
@@ -12,8 +14,6 @@ Software Development Engineer with 2.5+ years of experience building scalable ba
 Bachelor of Engineering, Information Engineering  
 GPA: 3.52/4.00  
 August 2018 - August 2022
-
-- 2nd Place GEMASTIK 12 Software Development Competition
 
 ## Professional Experience
 
