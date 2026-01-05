@@ -1,0 +1,17 @@
+# PDF output (optional - remove this line if you want PDF committed)
+# cv.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
